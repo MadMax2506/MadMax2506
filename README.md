@@ -2,10 +2,6 @@
 
 I'm 18 years old and a Student for **M**athematical **T**echnical **S**oftware **D**eveloper (MATSE) as dual training at [FH Aachen University of Applied Sciences](https://www.fh-aachen.de/) and [Veda GmbH](https://github.com/VEDAGroup)
 
-### GitLab Repositories
-
-* [PDF-Tools](https://gitlab.com/madmax2506-general-project-pool/python/pdf-tools)
-
 ### Programming languages
 
 * [Python](https://www.python.org/)
