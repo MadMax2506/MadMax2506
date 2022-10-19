@@ -4,13 +4,14 @@ I'm 18 years old and a Student for **M**athematical **T**echnical **S**oftware *
 
 ### Programming languages
 
-* [Python](https://www.python.org/)
-* [Java](https://www.java.com/de/)
+* [Nestjs](https://nestjs.com)
 * [React](https://www.typescriptlang.org/docs/handbook/react.html)
-* [VueJs](https://vuejs.org/)
-* [Ruby on Rails](https://rubyonrails.org/)
-* C
-* C++
+* [VueJs](https://vuejs.org)
+* [Ruby on Rails](https://rubyonrails.org)
+* [Python](https://www.python.org)
+* [Java](https://www.java.com/de)
+* [C](https://en.cppreference.com/w/c)
+* [C++](https://en.cppreference.com/w/)
 
 ### Other Accounts
 
