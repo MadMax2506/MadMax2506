@@ -9,7 +9,7 @@
 
 - :mortar_board: I'm a student for **M**athematical **T**echnical **S**oftware **D**eveloper (MATSE) as dual training at [FH Aachen University of Applied Sciences](https://www.fh-aachen.de/).
 - :computer: I'm working as Software Engineer for [Veda GmbH](https://github.com/VEDAGroup) in the [backend](https://spring.io) and [frontend](https://reactjs.org).
-- :tennis: I'm play and train handball
+- I'm play and train handball
 
 ---
 
@@ -63,6 +63,8 @@
 ---
 
 ### :fire: My Stats
+
+Take a look into my [smart home projects](https://github.com/MadMax2506-SmartHome)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MadMax2506&theme=dark&background=000000)](https://git.io/streak-stats)
 
