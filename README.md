@@ -49,6 +49,9 @@
   <a href="https://www.raspberrypi.com">
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Pi" **alt="Pi" width="60" height="60"/>
   </a>&nbsp;
+  <a href="https://www.arduino.cc">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="60" height="60"/>
+  </a>&nbsp;
   <a href="https://en.cppreference.com/w/c">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="60" height="60"/>
   </a>&nbsp;
