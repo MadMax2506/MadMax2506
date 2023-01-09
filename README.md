@@ -8,8 +8,8 @@
 ### :woman_technologist: About Me
 
 - :mortar_board: I'm a student for **M**athematical **T**echnical **S**oftware **D**eveloper (MATSE) as dual training at [FH Aachen University of Applied Sciences](https://www.fh-aachen.de/).
-- :computer: I'm working as Software Engineer for [Veda GmbH](https://github.com/VEDAGroup) in the [backend](https://spring.io) and [frontend](https://reactjs.org).
-- I'm play and train handball
+- :computer: I'm working as Fullstack Software Engineer for [Veda GmbH](https://github.com/VEDAGroup) in the backend with [spring](https://spring.io) and in the frontend with [react](https://reactjs.org).
+- I play handball and coach a youth team
 
 ---
 
