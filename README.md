@@ -69,9 +69,9 @@
 
 Take a look into my [smart home projects](https://github.com/MadMax2506-SmartHome)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MadMax2506&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MadMax2506&theme=gruvbox&show_icons=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax2506&theme=tokyonight&show_icons=true)](https://github.com/MadMax2506)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax2506&theme=gruvbox&show_icons=true)](https://github.com/MadMax2506)
 
 ---
 
