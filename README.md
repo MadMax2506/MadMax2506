@@ -25,9 +25,6 @@
   <a href="https://www.electronjs.org">
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" title="Electron" alt="Electron" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://flutter.dev">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>
-  </a>&nbsp;
   <a href="https://www.python.org">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
   </a>&nbsp;
@@ -52,15 +49,6 @@
   <a href="https://www.arduino.cc">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://en.cppreference.com/w/c">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="60" height="60"/>
-  </a>&nbsp;
-  <a href="https://en.cppreference.com/w">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-  </a>
 </div>
 
 ---
