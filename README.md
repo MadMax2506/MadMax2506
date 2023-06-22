@@ -22,9 +22,6 @@
   <a href="https://nestjs.com">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJs" alt="NestJs" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://www.electronjs.org">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" title="Electron" alt="Electron" width="60" height="60"/>
-  </a>&nbsp;
   <a href="https://www.python.org">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
   </a>&nbsp;
