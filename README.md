@@ -16,28 +16,28 @@
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
-  <a href="https://www.javascript.com/">
+  <a href="https://www.javascript.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://nodejs.org">
+  <a href="https://nodejs.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://www.typescriptlang.org">
+  <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://reactjs.org">
+  <a href="https://reactjs.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://vuejs.org">
+  <a href="https://vuejs.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://nestjs.com">
+  <a href="https://nestjs.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJs" alt="NestJs" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://mui.com">
+  <a href="https://mui.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://www.github.com">
+  <a href="https://www.github.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
   </a>&nbsp;
 </div>
