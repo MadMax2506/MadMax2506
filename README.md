@@ -16,35 +16,29 @@
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
+  <a href="https://www.javascript.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
+  </a>&nbsp;
+  <a href="https://nodejs.org">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="60" height="60"/>
+  </a>&nbsp;
+  <a href="https://www.typescriptlang.org">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>
+  </a>&nbsp;
   <a href="https://reactjs.org">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>
-  </a>&nbsp;
-  <a href="https://nestjs.com">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJs" alt="NestJs" width="60" height="60"/>
-  </a>&nbsp;
-  <a href="https://www.python.org">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
-  </a>&nbsp;
-  <a href="https://www.java.com">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
-  </a>&nbsp;
-  <a href="https://spring.io">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>
   </a>&nbsp;
   <a href="https://vuejs.org">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://rubyonrails.org">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="RubyOnRails" alt="RubyOnRails" width="60" height="60"/>
+  <a href="https://nestjs.com">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJs" alt="NestJs" width="60" height="60"/>
   </a>&nbsp;
   <a href="https://mui.com">
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>
   </a>&nbsp;
-  <a href="https://www.raspberrypi.com">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Pi" **alt="Pi" width="60" height="60"/>
-  </a>&nbsp;
-  <a href="https://www.arduino.cc">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="60" height="60"/>
+  <a href="https://www.github.com">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
   </a>&nbsp;
 </div>
 
