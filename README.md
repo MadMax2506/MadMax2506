@@ -32,7 +32,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="60" height="60"/>
   </a>&nbsp;
   <a href="https://nestjs.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJs" alt="NestJs" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJs" alt="NestJs" width="60" height="60"/>
   </a>&nbsp;
   <a href="https://mui.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>
